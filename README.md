@@ -7,7 +7,7 @@ studying  data structures and algorithms for solving problem
 ### About me :eyes:
 
 - :dart: Software engineering student
-- :writing_hand: Writing blogs on  **[MyBlog](www.victorzy.club)**
+- :writing_hand: Writing blogs on  **[MyBlog](http://www.victorzy.club)**
 - :e-mail: Ask me about anything ; **[972193026zy@gmail.com](972193026zy@gmail.com)**
 
 ![Enoch's github stats](https://github-readme-stats.vercel.app/api?username=victor-jml&show_icons=true&theme=radical)
@@ -29,26 +29,9 @@ studying  data structures and algorithms for solving problem
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:972193026zy@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/hritik5102)](https://leetcode-cn.com/u/enoch_oahz/)
-[![Website](https://img.shields.io/badge/-Website-FCA121?style=flat&logo=java&logoColor=white)](wwww.victorzy.club)
+[![Website](https://img.shields.io/badge/-Website-FCA121?style=flat&logo=java&logoColor=white)](http://www.victorzy.club)
 
 
 
 
-
-
-
-<!--
-**hritik5102/hritik5102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
