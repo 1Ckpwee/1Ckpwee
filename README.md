@@ -1,5 +1,5 @@
 
-### Hey 👋, I'm [Enoch Oahz]() 👨‍💻
+### Hey 👋, I'm [Enoch]() 👨‍💻
 
 studying  data structures and algorithms for solving problem
 
