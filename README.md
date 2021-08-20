@@ -6,10 +6,10 @@ studying  data structures and algorithms for solving problem
 
 ### About me :eyes:
 
-- :dart: Software engineering student, now already graduated.
-- :punch: Goal to achieve high-availability `IM` services 
+- :dart: Major in Software engineering
+- :punch: Interesting in achieve high-availability `IM` services 
 - :writing_hand: Writing blogs on  **[MyBlog](http://mademyday.site)**
-- :e-mail: Ask me about anything ; **[972193026zy@gmail.com](972193026zy@gmail.com)**
+- :e-mail: Ask me about anything ; **[mademyday_@outlook.com](mademyday_@outlook.com)**
 
 ![Enoch's github stats](https://github-readme-stats.vercel.app/api?username=victor-jml&show_icons=true&theme=radical)
 
