@@ -8,7 +8,7 @@ studying  data structures and algorithms for solving problem
 
 - :dart: Major in Software engineering
 - :punch: Interesting in achieve high-availability `IM` services 
-- :writing_hand: Writing blogs on  **[MyBlog](http://mademyday.site)**
+- :writing_hand: Writing blogs on  **[MyBlog](https://mademyday.im)**
 - :e-mail: Ask me about anything ; **[mademyday_@outlook.com](mademyday_@outlook.com)**
 
 ![Enoch's github stats](https://github-readme-stats.vercel.app/api?username=victor-jml&count_private=true)
