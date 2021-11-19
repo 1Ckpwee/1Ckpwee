@@ -11,7 +11,7 @@ studying  data structures and algorithms for solving problem
 - :writing_hand: Writing blogs on  **[MyBlog](https://mademyday.im)**
 - :e-mail: Ask me about anything ; **[mademyday_@outlook.com](mademyday_@outlook.com)**
 
-![Enoch's github stats](https://github-readme-stats.vercel.app/api?username=victor-jml&count_private=true)
+![Enoch's github stats](https://github-readme-stats.vercel.app/api?username=1Ckpwee&count_private=true)
 
 
 #### Platform&Tools
