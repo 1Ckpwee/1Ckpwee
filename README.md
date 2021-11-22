@@ -14,7 +14,7 @@ studying  data structures and algorithms for solving problem
 <!-- ![Enoch's github stats](https://github-readme-stats.vercel.app/api?username=1Ckpwee&count_private=true)
  -->
 
-#### Platform&Tools
+### Platform & Tools
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
@@ -22,7 +22,7 @@ studying  data structures and algorithms for solving problem
 [![](https://img.shields.io/badge/Intellij-Idea-blue?style=flat-square&logo=intellijidea&logoColor=000000)](https://code.visualstudio.com/)
 
 
-### Languages and Tools
+### Languages & Tools
 
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
@@ -37,7 +37,7 @@ studying  data structures and algorithms for solving problem
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/hritik5102)](https://leetcode-cn.com/u/enoch_oahz/)
 [![Website](https://img.shields.io/badge/-Website-FCA121?style=flat&logo=java&logoColor=white)](http://mademyday.site)
 
-#### Console&Game
+### Console & Games
 
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
