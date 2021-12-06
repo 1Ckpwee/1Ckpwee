@@ -7,7 +7,7 @@ studying  data structures and algorithms for solving problem
 ### About me :eyes:
 
 - :dart: Major in Software engineering
-- :punch: Interesting in achieve high-availability `IM` services 
+- :punch: Interesting Computer Networking, so trying to achieve high-availability `IM` services 
 - :writing_hand: Writing blogs on  **[MyBlog](https://mademyday.im)**
 - :e-mail: Ask me about anything ; **[mademyday_@outlook.com](mademyday_@outlook.com)**
 
