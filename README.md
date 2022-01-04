@@ -1,4 +1,6 @@
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
 ### Hey 👋, I'm [Enoch]() 👨‍💻
 
 studying  data structures and algorithms for solving problem
