@@ -3,7 +3,6 @@
 
 ### Hey 👋, I'm [Enoch]() 👨‍💻
 
-Interested in distributed database & instant messaging
 
 <!-- ### About me :eyes:
 
